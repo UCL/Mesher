@@ -1,7 +1,7 @@
 //Contains different sizing fields structures for different proposes: Spherical, Elliptical, planar gradient
 // Refer to original CGAL documents if you would like to know more about sizing fields
 // developed by Kirill Aristovich
-
+// Example change by James H
 #include <CGAL/Exact_predicates_inexact_constructions_kernel.h>
 
 #include <CGAL/Mesh_triangulation_3.h>
