@@ -1,4 +1,3 @@
-
 //Input parameters that are read from the file
 #include <CGAL/Exact_predicates_inexact_constructions_kernel.h>
 
@@ -11,6 +10,8 @@
 
 #include <CGAL/make_mesh_3.h>
 #include <CGAL/Image_3.h>
+
+// A change by James
 
 
 typedef CGAL::Exact_predicates_inexact_constructions_kernel K;
